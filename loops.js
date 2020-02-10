@@ -9,3 +9,9 @@ function forLoop(array) {
   }
   return array;
 }
+
+function forLoop(numero) {
+  console.log(numero);
+  numero--;
+  return numero;
+}
